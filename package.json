@@ -1,18 +1,21 @@
 {
   "name": "tinder-api-super",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An up-to-date API for Tinder.",
   "main": "tinder-api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Oliver Eidel",
+  "author": {
+    "name": "Oliver Eidel",
+    "url": "http://olieidel.github.io"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/olieidel/tinder-super-api"
+    "url": "https://github.com/olieidel/tinder-api-super"
   },
   "bugs": {
-    "url": "https://github.com/olieidel/tinder-super-api/issues"
+    "url": "https://github.com/olieidel/tinder-api-super/issues"
   },
   "keywords": [
     "tinder"
